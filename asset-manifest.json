@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/manage-website/static/css/main.73cacdfc.css",
-    "main.js": "/manage-website/static/js/main.f356d777.js",
+    "main.js": "/manage-website/static/js/main.118270b2.js",
     "static/media/avatar-ali.png": "/manage-website/static/media/avatar-ali.88f9155cb730934f4d7c.png",
     "static/media/avatar-shanai.png": "/manage-website/static/media/avatar-shanai.4bbe2f95e8975736fbd8.png",
     "static/media/illustration-intro.svg": "/manage-website/static/media/illustration-intro.cb9a8a9551ca99f99a125230d38a2c36.svg",
@@ -18,10 +18,10 @@
     "static/media/bg-tablet-pattern.svg": "/manage-website/static/media/bg-tablet-pattern.b6990a984c7bcc142d3e9783736e996a.svg",
     "static/media/icon-hamburger.svg": "/manage-website/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
     "main.73cacdfc.css.map": "/manage-website/static/css/main.73cacdfc.css.map",
-    "main.f356d777.js.map": "/manage-website/static/js/main.f356d777.js.map"
+    "main.118270b2.js.map": "/manage-website/static/js/main.118270b2.js.map"
   },
   "entrypoints": [
     "static/css/main.73cacdfc.css",
-    "static/js/main.f356d777.js"
+    "static/js/main.118270b2.js"
   ]
 }
