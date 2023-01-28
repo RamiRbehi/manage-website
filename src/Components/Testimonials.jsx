@@ -132,7 +132,7 @@ const Testimonials = () => {
                     <SwiperSlide>
                             <ProfileContainer>
                             <Profile>
-                                <ProfileImage src={item.img}/>
+                                <ProfileImage src={item.img} alt={item.alt}/>
                                 <ProfileName>{item.name}</ProfileName>
                                 <ProfileQuote>"{item.quote}"</ProfileQuote>
                             </Profile>

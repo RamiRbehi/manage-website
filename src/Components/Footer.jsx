@@ -278,13 +278,13 @@ const Footer = () => {
         </Announecemnt>
         <FooterInfo>
             <Left>
-            <Image src={logoFooter} style={{fill:"white"}}/>
+            <Image src={logoFooter} style={{fill:"white"}} alt="logo"/>
             <Icons>
-                <Icon src={facebook}/>
-                <Icon src={youtube}/>
-                <Icon src={twitter}/>
-                <Icon src={pinterest}/>
-                <Icon src={instagram}/>
+                <Icon src={facebook} alt="icon of facebook"/>
+                <Icon src={youtube} alt="icon of youtube"/>
+                <Icon src={twitter} alt="icon of twitter"/>
+                <Icon src={pinterest} alt="icon of pinterest"/>
+                <Icon src={instagram} alt="icon of instagram"/>
             </Icons>
             </Left>
 
@@ -304,7 +304,9 @@ const Footer = () => {
             <Right>
                 <Form>
                     <Text>
-                <TextField type="email" id="userEmail"
+                <TextField type="email" 
+                    id="userEmail"
+                    aria-label="Updates in your inbox..."
                     value={message}
                     onChange={handleChange}
                     />

@@ -136,7 +136,7 @@ const Intro = () => {
                 </ButtonIntro>
             </Left>
             <Right>
-                <ImageRight src={introImage}/>
+                <ImageRight src={introImage} alt="chart"/>
             </Right>
     </Container>
   )

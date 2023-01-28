@@ -160,7 +160,7 @@ const Navbar = () => {
     <Container>
         <Wrapper>
             <Left>
-                <Image src={logo}/>
+                <Image src={logo} alt="logo"/>
             </Left>
 
             
